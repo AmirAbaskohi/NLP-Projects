@@ -1,2 +1,2 @@
-# NLP-Projects
-This is a repository for NLP course projects by deeplearning.ai in coursera.
+# NLP Projects
+This is a repository for NLP course projects by deeplearning.ai on coursera.
